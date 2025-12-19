@@ -9,7 +9,6 @@
 
 <h1 align="center">Heyyaa, I'm Jiya</h1>
 
-
 I’m a **B.Tech 2nd Year Computer Science Engineering (AI & Machine Learning)** student with a strong interest in **Data Structures & Algorithms, core programming, and problem solving**. I enjoy building projects in **C++ and Python**, understanding how systems work internally, and writing clean, logical code.
 
 I am keen to work on **Machine Learning and Web Development projects** and actively practice coding on platforms like **Codeforces and HackerRank**, which helps strengthen my analytical and problem-solving skills.
@@ -25,22 +24,22 @@ My skill set includes **Machine Learning, Object-Oriented Programming, Web Devel
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jiyachaudhary362@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jiya-chaudhary-693454373)
 
-
 ---
 
-## 👩‍💻 Coding Profiles:
+## 👩‍💻 Coding Profiles
+
 <p align="left">
   <a href="https://leetcode.com/USERNAME_HERE/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="42" height="42"/>
   </a>
   <a href="https://auth.geeksforgeeks.org/user/USERNAME_HERE/" target="_blank">
-    <img src="https://media.geeksforgeeks.org/wp-content/uploads/20210101144014/gfglogo.png" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="42" height="42"/>
   </a>
   <a href="https://www.hackerrank.com/USERNAME_HERE" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="42" height="42"/>
   </a>
   <a href="https://codeforces.com/profile/USERNAME_HERE" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Codeforces_logo.svg" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Codeforces_logo.svg" width="42" height="42"/>
   </a>
 </p>
 
