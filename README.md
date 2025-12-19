@@ -29,19 +29,20 @@ My skill set includes **Machine Learning, Object-Oriented Programming, Web Devel
 ## 👩‍💻 Coding Profiles
 
 <p align="left">
-  <a href="https://leetcode.com/USERNAME_HERE/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="42" height="42"/>
+  <a href="https://leetcode.com/USERNAME_HERE/">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=orange"/>
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/USERNAME_HERE/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="42" height="42"/>
+  <a href="https://auth.geeksforgeeks.org/user/USERNAME_HERE/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
   </a>
-  <a href="https://www.hackerrank.com/USERNAME_HERE" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="42" height="42"/>
+  <a href="https://www.hackerrank.com/USERNAME_HERE">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
-  <a href="https://codeforces.com/profile/USERNAME_HERE" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Codeforces_logo.svg" width="42" height="42"/>
+  <a href="https://codeforces.com/profile/USERNAME_HERE">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
   </a>
 </p>
+
 
 ---
 
