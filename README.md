@@ -26,22 +26,23 @@ My skill set includes **Machine Learning, Object-Oriented Programming, Web Devel
 
 ---
 
-## 👩‍💻 Coding Profiles
+## 👩‍💻 Coding Profiles:
 
 <p align="left">
   <a href="https://leetcode.com/USERNAME_HERE/">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=orange"/>
-  </a>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" height="30"/>
+  </a>&nbsp;&nbsp;
   <a href="https://auth.geeksforgeeks.org/user/USERNAME_HERE/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-  </a>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/geeksforgeeks.svg" height="30"/>
+  </a>&nbsp;&nbsp;
   <a href="https://www.hackerrank.com/USERNAME_HERE">
-    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-  </a>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/hackerrank.svg" height="30"/>
+  </a>&nbsp;&nbsp;
   <a href="https://codeforces.com/profile/USERNAME_HERE">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codeforces.svg" height="30"/>
   </a>
 </p>
+
 
 
 ---
