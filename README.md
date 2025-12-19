@@ -39,7 +39,6 @@ My skill set includes **Machine Learning, Object-Oriented Programming, Web Devel
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=jiya429&theme=default&hide_border=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=jiya429&theme=default&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jiya429&layout=compact)
 
