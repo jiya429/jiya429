@@ -30,19 +30,18 @@ My skill set includes **Machine Learning, Object-Oriented Programming, Web Devel
 
 <p align="left">
   <a href="https://leetcode.com/USERNAME_HERE/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" height="30"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg?color=white" height="30"/>
   </a>&nbsp;&nbsp;
   <a href="https://auth.geeksforgeeks.org/user/USERNAME_HERE/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/geeksforgeeks.svg" height="30"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/geeksforgeeks.svg?color=white" height="30"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.hackerrank.com/USERNAME_HERE">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/hackerrank.svg" height="30"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/hackerrank.svg?color=white" height="30"/>
   </a>&nbsp;&nbsp;
   <a href="https://codeforces.com/profile/USERNAME_HERE">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codeforces.svg" height="30"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codeforces.svg?color=white" height="30"/>
   </a>
 </p>
-
 
 ---
 
