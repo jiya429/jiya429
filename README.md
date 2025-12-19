@@ -28,6 +28,25 @@ My skill set includes **Machine Learning, Object-Oriented Programming, Web Devel
 
 ---
 
+## 👩‍💻 Coding Profiles:
+
+<p align="left">
+  <a href="https://leetcode.com/your-username/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/your-username/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" width="40" height="40"/>
+  </a>
+  <a href="https://www.hackerrank.com/your-username" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://codeforces.com/profile/your-username" target="_blank">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
 ## 💻 Tech Stack
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
