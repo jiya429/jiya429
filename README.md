@@ -29,8 +29,6 @@ My skill set includes **Machine Learning, Object-Oriented Programming, Web Devel
 ---
 
 ## 👩‍💻 Coding Profiles:
-## 👩‍💻 Coding Profiles:
-
 <p align="left">
   <a href="https://leetcode.com/USERNAME_HERE/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" height="40"/>
