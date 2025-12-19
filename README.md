@@ -1,18 +1,49 @@
-# 💫 About Me:
-<h1 align="center">Heyyaa, I'm Jiya 👋</h1>I'm a **B.Tech 2nd Year Computer Science Engineering (AI & ML)** student with a strong interest in **Data Structures & Algorithms, Core Programming, and Problem Solving**. I enjoy building projects in **C++ and Python**, understanding how things work internally, and writing clean, logical code. Currently, I am strengthening my fundamentals in **DSA, OOP, and core CS subjects**.I am keen to work on Machine Learning aND Web Developement projects. I have solved over various problems in various coding platforms like codeforces and Hackerrank. I am currently learning advance concepts on Machine Learning and Web developement. My skillset includes Machine Learning , OOP and Web Development. i want like this this is on GRPM so just make some changes in it so that i can paste it on GRPM website.
+<h1 align="center">Heyyaa, I'm Jiya</h1>
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jiyachaudhary443) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jiya-chaudhary-693454373) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jiyachaudhary362@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jiya429&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=jiya429&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jiya429&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://github.com/jiya429">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jiya-chaudhary-693454373">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=jiya429&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I’m a **B.Tech 2nd Year Computer Science Engineering (AI & Machine Learning)** student with a strong interest in **Data Structures & Algorithms, core programming, and problem solving**. I enjoy building projects in **C++ and Python**, understanding how systems work internally, and writing clean, logical code.
+
+I am keen to work on **Machine Learning and Web Development projects** and actively practice coding on platforms like **Codeforces and HackerRank**, which helps strengthen my analytical and problem-solving skills.
+
+Currently, I am learning **advanced concepts in Machine Learning and Web Development**, while building a solid foundation in **DSA, Object-Oriented Programming (OOP), and core computer science subjects**.
+
+My skill set includes **Machine Learning, Object-Oriented Programming, Web Development, and problem solving**.
+
+---
+
+## 🌐 Socials
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jiyachaudhary443)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jiyachaudhary362@gmail.com)
+
+---
+
+## 💻 Tech Stack
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=jiya429&theme=default&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=jiya429&theme=default&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jiya429&layout=compact)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=jiya429&icon=0&color=0)](https://visitcount.itsvg.in)
